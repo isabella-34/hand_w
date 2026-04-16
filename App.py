@@ -30,7 +30,7 @@ st.subheader("Dibuja el digito en el panel  y presiona  'Predecir'")
 drawing_mode = "freedraw"
 stroke_width = st.slider('Selecciona el ancho de línea', 1, 30, 15)
 stroke_color = '#FFFFFF' # Set background color to white
-bg_color = '#000000'
+bg_color = '#27004F'
 
 # Create a canvas component
 canvas_result = st_canvas(
