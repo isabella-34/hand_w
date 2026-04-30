@@ -56,7 +56,7 @@ if st.button('Predecir'):
         st.header('Por favor dibuja en el canvas el digito.')
 
 # Add sidebar
-st.sidebar.title("Acerca de:")
+st.sidebar.title("➡ Acerca de:")
 st.sidebar.text("En esta aplicación se evalua la capacidad de un RNA de reconocer digitos escritos a mano.")
 st.sidebar.text("Basado en desarrollo de Vinay Uniyal")
 #st.sidebar.text("GitHub Repository")
